@@ -1,27 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<title>Michal Brigady</title>
 <head>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>Brigady Michal</title>
-
+    <meta name="Brigady" content="width=device-width, initial-scale=1">
+    <meta name="Feki"
     <!-- Bootstrap Core CSS -->
-    <link href="C:\xampp\htdocs\projekt\assets\css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/bootstrap.css");?>" />
 
     <!-- Custom CSS -->
-    <link href="C:\xampp\htdocs\projekt\assets\css/sb-admin.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?php echo base_url("assets/css/clean-blog.min.css");?>" />
 
     <!-- Morris Charts CSS -->
-    <link href="C:\xampp\htdocs\projekt\assets\css/plugins/morris.css" rel="stylesheet">
+    <link href="css/plugins/morris.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="C:\xampp\htdocs\projekt\assets\font-awesome\css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,4 +27,3 @@
     <![endif]-->
 
 </head>
-
