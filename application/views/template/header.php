@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Michal Brigady</title>
+<title>Michal Brigady </title>
 <head>
 
     <meta charset="utf-8">
