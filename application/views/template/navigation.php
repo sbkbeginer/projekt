@@ -20,27 +20,13 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-top">
-                <li>
-                    <a   href="prax"><h class='text-warning'>Prax</h></a>
-                </li>
+
 
                 <li>
                     <a href="Studenti"><h class='text-warning'>Študenti</h></a>
 
                 </li>
-                <li>
-                    <a href="doch"><h class='text-warning'>Dochádzka</h></a>
-                </li>
-
-                <li>
-                    <a href="spol"><h class='text-warning'>Spolupráca</h></a>
-                </li>
-                <li>
-                    <a href="skol"><h class='text-warning'>Skolitelia</h></a>
-                </li>
-                <li>
-                    <a href="hod"><h class='text-warning'>Hodnotenie</h></a>
-                </li>
+                
             </ul>
         </div>
         <!-- /.navbar-collapse -->
