@@ -11,7 +11,7 @@
 
             </button>
 
-            <a class="navbar-brand" href="home"><h class='text-warning'>Domov</h></a>
+            <a class="navbar-brand" href="home.php"><h class='text-warning'>Domov</h></a>
 
         </div>
 
@@ -25,7 +25,7 @@
                 </li>
 
                 <li>
-                    <a href="studenti"><h class='text-warning'>Študenti</h></a>
+                    <a href="Studenti"><h class='text-warning'>Študenti</h></a>
 
                 </li>
                 <li>

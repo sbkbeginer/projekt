@@ -1,7 +1,7 @@
 <?php
+defined('BASEPATH') OR exit('No direct script access allowed');
 
-
-class Home extends CI_Controller {
+class Studenti extends CI_Controller {
 
     /**
      * Index Page for this controller.
@@ -20,15 +20,17 @@ class Home extends CI_Controller {
      */
     public function index()
     {
-        $this->load->helper('url');
         //$this->load->view('welcome_message');
-        $data['title']='Michal Brigady';
+
+
+        $data['title']='Zoznam Studentov';
+        $this->load->model('model')  ;
+
+        $data1 ['studenti1']=  $this->model->select_all_stud('Student');
 
         $this->load->view('template/header',$data)  ;
         $this->load->view('template/navigation');
-        $this->load->view('template/home');
-       // $this->load->view('studenti_w');
-
+        $this->load->view('studenti_w',$data1);
         $this->load->view('template/footer');
         //  $this->load->view('about');
     }
