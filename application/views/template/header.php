@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Michal Brigady </title>
-<head>
 
+<head>
+    <title> <?=$title ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="Brigady" content="width=device-width, initial-scale=1">

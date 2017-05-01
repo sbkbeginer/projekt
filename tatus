@@ -1,0 +1,47 @@
+[33mcommit 87012d58b6f77536907714dbf6ce5f34e276178b[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sun Apr 30 17:52:45 2017 +0200
+
+    upravene routes, template home
+
+[33mcommit 757041c4b8e09d055f07d8de4a96cabb0d2919bb[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sun Apr 30 17:50:58 2017 +0200
+
+    vytvoril som controler home a upravil config/routes, tiez som vytvoril view home
+
+[33mcommit a95ed50b8ecf3c9e28586176462caf5342ea2aad[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sun Apr 30 17:17:57 2017 +0200
+
+    vytvoril som navigation.php, prepísal controler Welcome.php
+
+[33mcommit 34dd14cab8be1e67135b016821ebdbc5b55c0dae[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sun Apr 30 16:56:32 2017 +0200
+
+    Pridaný nový bootstrap template, upravená hlavička a päta
+
+[33mcommit b24c2a1263e0dbad5a62bb29a5b834153a41cd67[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sat Apr 29 18:18:16 2017 +0200
+
+    Vytvorena Bootrstrap sablona pre struktury stranky
+
+[33mcommit 58ff7cb8cfca8d29059057075cda8d2783e53d6a[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sat Apr 29 18:15:04 2017 +0200
+
+    vytvorena boostrap sablonapre strukturu stranky
+
+[33mcommit bc37b36556ed422537ff35ec3410956819fd603e[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sat Apr 29 17:37:58 2017 +0200
+
+    pridanie assets
+
+[33mcommit a3849d677f074b54465af3cf7b756cf698521c99[m
+Author: svkbeginer <svkbeginer@azet.sk>
+Date:   Sat Apr 29 17:07:40 2017 +0200
+
+    Inicializacia CI
