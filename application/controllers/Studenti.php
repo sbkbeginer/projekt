@@ -26,7 +26,7 @@ class Studenti extends CI_Controller {
         $data['title']='Zoznam Studentov';
         $this->load->model('model')  ;
 
-        $data1 ['studenti1']=  $this->model->select_all_stud('Student');
+        $data1 ['studenti1']=  $this->model->select_all_studenti('Student');
 
         $this->load->view('template/header',$data)  ;
         $this->load->view('template/navigation');

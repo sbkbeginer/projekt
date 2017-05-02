@@ -5,7 +5,7 @@
                 <center>
                     <br>
                     <h2 class="post-title">
-                        Vitajte na stránke Študentských brigád a ich prehlade
+                        Vitajte na stránke Študentských brigád
                     </h2>
 
                 </center>

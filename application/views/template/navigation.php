@@ -11,7 +11,7 @@
 
             </button>
 
-            <a class="navbar-brand" href="home.php"><h class='text-warning'>Domov</h></a>
+            <a class="navbar-brand" href="Home"><h class='text-warning'>Domov</h></a>
 
         </div>
 
@@ -26,7 +26,7 @@
                     <a href="Studenti"><h class='text-warning'>Študenti</h></a>
 
                 </li>
-                
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
